@@ -60,10 +60,10 @@ Screengrab: There is a screenshot called **Screengrap** in the package for quest
 
 A. Simulate 100 years of time with various step sizes:
 
-|**step_size**|**kTotal**|**pTotal**|**eTotal**|
-| :----: | :----: | :----: | :----: | 
-| 0.1day  | 0.18736 | -0.0808182 | 0.106541 | 
-| 1day    | 0..187374 | -0.00874004 | 0.178634 |
+|**step_size**|**kTotal**|**pTotal**|**eTotal**|**CPU time**|**Wall clock time**|
+| :----: | :----: | :----: | :----: | :----: | :----: | 
+| 0.1day  | 0.18736 | -0.0808182 | 0.106541 | |   ||   |
+| 1day    | 0..187374 | -0.00874004 | 0.178634 ||   ||   |
 
 
 
