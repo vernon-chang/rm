@@ -55,3 +55,15 @@ Results
 -------
 
 Screengrab: There is a screenshot called **Screengrap** in the package for question 3f.
+
+**Benchmark**
+
+A. Simulate 100 years of time with various step sizes:
+
+|**step_size**|**kTotal**|**pTotal**|**eTotal**|
+| :----: | :----: | :----: | :----: | 
+| 0.1day  | 0.18736 | -0.0808182 | 0.106541 | 
+| 1day    | (-4.63987e-05,2.58709e-05,-5.22848e-07) |  (-2.19125e-06,1.97065e-06,-7.94825e-09) | 5.31264e-05 | 2.94706e-06 | (0.68553, 0.948918, 0.000126035)   | 0.2 ms     | 0.1966 ms |
+
+
+
