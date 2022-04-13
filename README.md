@@ -14,9 +14,18 @@ that use [CTest](https://cmake.org/) to run unit tests via [Catch](https://githu
 Further information on the specific project is left as an exercise for the student.
 
 
+Credits
+-------
+
+This project is maintained by [Dr. Jim Dobson](https://www.ucl.ac.uk/physics-astronomy/people/dr-jim-dobson). It is based on [CMakeCatch2](https://github.com/UCL/CMakeCatch2.git) that was originally developed as a teaching aid for UCL's ["Research Computing with C++"](http://rits.github-pages.ucl.ac.uk/research-computing-with-cpp/)
+course developed by [Dr. James Hetherington](http://www.ucl.ac.uk/research-it-services/people/james)
+and [Dr. Matt Clarkson](https://iris.ucl.ac.uk/iris/browse/profile?upi=MJCLA42).
+
+
 Build Instructions
 ------------------
 
+Build and run instructions are left as an excercise for the student. Examples of how to build using cmake were given in lectures and in the other CMake example projects.
 
 Ensure that  a "out-of-source" build is made.
 
@@ -41,3 +50,4 @@ Unit test Instructions
 -------------------------
 Instructions for unit test: 
 **./bin/nbsimUnitTest**
+
