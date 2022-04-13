@@ -31,8 +31,8 @@ Command line Instructions
 ------------------
 After above steps, you can now run the command line app from the build directory and pass the step_size and the number of timesteps. The format should be something as below:
 
-solarSystemSimulator [-s  step_size for the simulation] [-n  number of timesteps]
+**solarSystemSimulator [-s  step_size for the simulation] [-n  number of timesteps]**
 
 And instruction should be something as followed:
 
-./bin/solarSystemSimulator -s 0.000274 -n 3650
+**./bin/solarSystemSimulator -s 0.000274 -n 3650**
