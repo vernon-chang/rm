@@ -25,8 +25,6 @@ and [Dr. Matt Clarkson](https://iris.ucl.ac.uk/iris/browse/profile?upi=MJCLA42).
 Build Instructions
 ------------------
 
-Build and run instructions are left as an excercise for the student. Examples of how to build using cmake were given in lectures and in the other CMake example projects.
-
 Ensure that  a "out-of-source" build is made.
 
 Detailed of "out-of-source" build is shown below:
@@ -38,6 +36,7 @@ Detailed of "out-of-source" build is shown below:
 
 Command line Instructions
 -------------------------
+
 After above steps, you can now run the command line app from the build directory and pass the step_size and the number of timesteps. The format should be something as below:
 
 **solarSystemSimulator [-s  step_size for the simulation] [-n  number of timesteps]**
@@ -48,6 +47,11 @@ And instruction should be something as followed:
 
 Unit test Instructions
 -------------------------
+
 Instructions for unit test: 
 **./bin/nbsimUnitTest**
 
+Results
+-------
+
+Screengrab: There is a screenshot called **Screengrap** in the package for question 3f.
